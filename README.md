@@ -1,8 +1,9 @@
 ## Olá!! Eu sou o Denys Henrique👋
 
-- 🔭 Hoje estou cursando engenharia de software.
-- 🌱 estudando rede de computadores e Python
-- 📫 Contate-me no email: denyshenrique14@gmail.com
+💻 Estudante de Engenharia de Software
+👨‍🏫 Instrutor de Python e HTML/CSS
+🚀 Construindo projetos e evoluindo constantemente
+📫 Contate-me no email: denyshenrique14@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
