@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Denys Henrique👋
 
 💻 Estudante de Engenharia de Software
-👨‍🏫 Instrutor de Python e HTML/CSS
-🚀 Construindo projetos e evoluindo constantemente
+🧠 Python | HTML | CSS
+🔧 Desenvolvimento web e soluções práticas
 📫 Contate-me no email: denyshenrique14@gmail.com
 
 <div style="display: inline_block"><br>
